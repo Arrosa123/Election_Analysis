@@ -33,6 +33,6 @@ The analysis of the election shows that:
 
 ## Election-Audit Summary: 
 Expanding the Election Audit to include voter turnout by county with candidates results has been a great way to take advantage of the convenience a script provides.
-We can use the same script guideness for the futer performance.Modifying the script to produce turnout results by county is just one of many ways that minor adjustments to the code can reveal critical data. 
+We can use the same script guideness for the futuer performance.Modifying the script to produce turnout results by county is just one of many ways that minor adjustments to the code can reveal critical data. 
 For example, we could also dive deeper and determine what percentage of each county voted for each candidate by adding an if-statement to the code. No matter the number of candidates or counties, the script used to perform the Election Audit can be a valuable resourse for the board. 
    
